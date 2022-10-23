@@ -1,5 +1,6 @@
 
- ##[Apple website] (https://akaitsumi.github.io/apple_website/)
+[apple_website](https://akaitsumi.github.io/apple_website/)
  
-Using HTML,CSS.
-Use animations,make the website responsive.
++ Using HTML,CSS
++ Use animations
++ Make the website responsive.
